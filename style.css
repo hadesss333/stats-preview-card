@@ -26,7 +26,7 @@ body {
 }
 
 .image {
-    background-image: url(./images/image-header-desktop.jpg);
+    background-image: url(image-header-desktop.jpg);
     filter: contrast(113%) opacity(0.4) drop-shadow(0 0 0 hsl(277, 64%, 61%));
     border-radius: 9px 0px 0px 9px;
 
@@ -88,7 +88,7 @@ p {
 
     }
     .image {
-        background-image: url(./images/image-header-mobile.jpg);
+        background-image: url(image-header-mobile.jpg);
         filter: contrast(113%) opacity(0.4) drop-shadow(0 0 0 hsl(277, 64%, 61%));
         border-radius: 12px 12px 0px 0px;
         margin: 0;
